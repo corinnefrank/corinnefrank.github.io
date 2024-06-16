@@ -2406,13 +2406,6 @@
   white-space: nowrap;
 }
 
-.portfolio-mobile .mynaui-copyright-2 {
-  position: absolute;
-  width: 1px;
-  height: 15px;
-  top: 4px;
-  left: 0;
-}
 
 .portfolio-mobile .main-nav {
   position: fixed;
