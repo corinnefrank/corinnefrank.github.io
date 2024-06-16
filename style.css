@@ -2485,13 +2485,13 @@
   white-space: nowrap;
 }
 
-@media (max-width: 1727px) {
+@media (max-width: 1511px) {
   .portfolio-mobile.portfolio-desktop-wrapper {
     display: none !important;
   }
 }
 
-@media (min-width: 1728px) {
+@media (min-width: 1512px) {
   .portfolio-mobile.portfolio-mobile-wrapper {
     display: none !important;
   }
