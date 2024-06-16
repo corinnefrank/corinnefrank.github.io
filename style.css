@@ -1,0 +1,2527 @@
+.portfolio-mobile.portfolio-mobile-wrapper {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.portfolio-mobile .div {
+  background-color: #ffffff;
+  overflow: visible;
+  width: 393px;
+  height: 4957px;
+  position: relative;
+}
+
+.portfolio-mobile .overlap {
+  position: absolute;
+  width: 394px;
+  height: 615px;
+  top: 3711px;
+  left: -1px;
+}
+
+.portfolio-mobile .blue-stripes {
+  position: absolute;
+  width: 393px;
+  height: 530px;
+  top: 43px;
+  left: 0;
+}
+
+.portfolio-mobile .overlap-group {
+  position: relative;
+  height: 530px;
+}
+
+.portfolio-mobile .rectangle {
+  position: absolute;
+  width: 61px;
+  height: 393px;
+  top: -166px;
+  left: 166px;
+  background-color: #80cee7a6;
+  transform: rotate(-90deg);
+}
+
+.portfolio-mobile .rectangle-2 {
+  top: -38px;
+  position: absolute;
+  width: 61px;
+  height: 393px;
+  left: 166px;
+  background-color: #80cee7a6;
+  transform: rotate(-90deg);
+}
+
+.portfolio-mobile .rectangle-3 {
+  top: 74px;
+  position: absolute;
+  width: 61px;
+  height: 393px;
+  left: 166px;
+  background-color: #80cee7a6;
+  transform: rotate(-90deg);
+}
+
+.portfolio-mobile .rectangle-4 {
+  top: 175px;
+  position: absolute;
+  width: 61px;
+  height: 393px;
+  left: 166px;
+  background-color: #80cee7a6;
+  transform: rotate(-90deg);
+}
+
+.portfolio-mobile .rectangle-5 {
+  top: 303px;
+  position: absolute;
+  width: 61px;
+  height: 393px;
+  left: 166px;
+  background-color: #80cee7a6;
+  transform: rotate(-90deg);
+}
+
+.portfolio-mobile .frame {
+  position: absolute;
+  width: 393px;
+  height: 177px;
+  top: 215px;
+  left: 1px;
+}
+
+.portfolio-mobile .div-2 {
+  position: relative;
+  width: 299px;
+  height: 177px;
+  left: 49px;
+}
+
+.portfolio-mobile .WFGD-card {
+  position: absolute;
+  width: 299px;
+  height: 177px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-mobile .overlap-group-2 {
+  position: relative;
+  width: 297px;
+  height: 177px;
+  background-image: url(./img/unsplash-cxyf4xwpyde-3.png);
+  background-size: 100% 100%;
+}
+
+.portfolio-mobile .rectangle-6 {
+  position: absolute;
+  width: 297px;
+  height: 117px;
+  top: 0;
+  left: 0;
+  background-color: #1e1e1e99;
+  border-radius: 8px;
+}
+
+.portfolio-mobile .wyoming-game-fish {
+  position: absolute;
+  width: 295px;
+  top: 17px;
+  left: 1px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25.6px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-mobile .ant-design-link {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 110px;
+  left: 122px;
+}
+
+.portfolio-mobile .overlap-wrapper {
+  position: absolute;
+  width: 393px;
+  height: 177px;
+  top: 438px;
+  left: 0;
+}
+
+.portfolio-mobile .img {
+  top: 110px;
+  left: 121px;
+  position: absolute;
+  width: 54px;
+  height: 54px;
+}
+
+.portfolio-mobile .WFGD-card-wrapper {
+  position: absolute;
+  width: 393px;
+  height: 177px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-mobile .ant-design-link-2 {
+  top: 113px;
+  left: 170px;
+  position: absolute;
+  width: 54px;
+  height: 54px;
+}
+
+.portfolio-mobile .overlap-2 {
+  position: absolute;
+  width: 350px;
+  height: 653px;
+  top: 184px;
+  left: 22px;
+}
+
+.portfolio-mobile .mobile-hero-lime {
+  position: absolute;
+  width: 350px;
+  height: 571px;
+  top: 29px;
+  left: 0;
+  border-radius: 8px;
+  border: 7px solid;
+  border-color: #d7ff5e;
+}
+
+.portfolio-mobile .mobile-hero-artwork {
+  position: absolute;
+  width: 348px;
+  height: 620px;
+  top: 0;
+  left: 2px;
+}
+
+.portfolio-mobile .element-wrapper {
+  position: absolute;
+  width: 41px;
+  height: 187px;
+  top: 434px;
+  left: 276px;
+  background-color: #ffffff99;
+  border-radius: 5px;
+}
+
+.portfolio-mobile .element {
+  position: absolute;
+  width: 41px;
+  top: -1px;
+  left: 0;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 53.6px;
+  text-align: center;
+  letter-spacing: 23.06px;
+  line-height: normal;
+}
+
+.portfolio-mobile .text-wrapper {
+  color: #e273bb;
+  letter-spacing: 12.37px;
+}
+
+.portfolio-mobile .span {
+  color: #d7ff5e;
+  letter-spacing: 12.37px;
+}
+
+.portfolio-mobile .solar-double-alt {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+  top: 612px;
+  left: 156px;
+}
+
+.portfolio-mobile .overlap-3 {
+  position: absolute;
+  width: 351px;
+  height: 644px;
+  top: 1534px;
+  left: 21px;
+}
+
+.portfolio-mobile .mobile-lime-green {
+  position: absolute;
+  width: 351px;
+  height: 572px;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 8px solid;
+  border-color: var(--lime);
+}
+
+.portfolio-mobile .mobile-tangerine {
+  position: absolute;
+  width: 309px;
+  height: 579px;
+  top: 65px;
+  left: 21px;
+}
+
+.portfolio-mobile .group {
+  position: absolute;
+  width: 285px;
+  height: 543px;
+  top: 82px;
+  left: 37px;
+}
+
+.portfolio-mobile .unsplash {
+  position: absolute;
+  width: 172px;
+  height: 163px;
+  top: 185px;
+  left: 0;
+}
+
+.portfolio-mobile .unsplash-cxyfxwpyde {
+  position: absolute;
+  width: 172px;
+  height: 163px;
+  top: 379px;
+  left: 103px;
+}
+
+.portfolio-mobile .in-art-and-design-i {
+  position: absolute;
+  width: 95px;
+  top: 7px;
+  left: 0;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 11px;
+  letter-spacing: 0.55px;
+  line-height: normal;
+}
+
+.portfolio-mobile .unsplash-2 {
+  position: absolute;
+  width: 173px;
+  height: 154px;
+  top: 0;
+  left: 104px;
+}
+
+.portfolio-mobile .it-s-important-to-me {
+  position: absolute;
+  width: 93px;
+  top: 185px;
+  left: 186px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 11px;
+  letter-spacing: 0.55px;
+  line-height: normal;
+}
+
+.portfolio-mobile .some-of-my-current {
+  position: absolute;
+  width: 90px;
+  top: 380px;
+  left: 7px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  line-height: normal;
+}
+
+.portfolio-mobile .text-wrapper-2 {
+  position: absolute;
+  top: 32px;
+  left: 36px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 10.32px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .case-studies-header {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 11.55px;
+  position: relative;
+}
+
+
+.portfolio-mobile .case-studies-title {
+  width: 383.17px;
+  height: 65.75px;
+  padding: 5.31px 4.49px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4.08px;
+  background-color: #ffffff;
+}
+
+.portfolio-mobile .case-studies {
+  position: relative;
+  width: 255px;
+  height: 52px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 13.76px;
+  line-height: normal;
+}
+
+.portfolio-mobile .UX-UI-text-with-dots {
+  position: relative;
+  width: 163.65px;
+  height: 17.3px;
+}
+
+.portfolio-mobile .overlap-group-wrapper {
+  position: relative;
+  width: 213px;
+  height: 22px;
+  top: -3px;
+  left: -23px;
+}
+
+.portfolio-mobile .overlap-group-3 {
+  position: relative;
+  width: 211px;
+  height: 22px;
+}
+
+.portfolio-mobile .text-wrapper-3 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  font-family: "Tamil Sangam MN-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 11.7px;
+  text-align: center;
+  letter-spacing: 7.86px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .ph-dot {
+  position: absolute;
+  width: 21px;
+  height: 22px;
+  top: 0;
+  left: 59px;
+}
+
+.portfolio-mobile .ph-dot-2 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 3px;
+  left: 40px;
+}
+
+.portfolio-mobile .overlap-4 {
+  position: absolute;
+  width: 351px;
+  height: 641px;
+  top: 848px;
+  left: 21px;
+}
+
+.portfolio-mobile .rectangle-7 {
+  position: absolute;
+  width: 351px;
+  height: 572px;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 8px solid;
+  border-color: #e273bbcc;
+}
+
+.portfolio-mobile .div-wrapper {
+  position: absolute;
+  width: 343px;
+  height: 22px;
+  top: 28px;
+  left: 4px;
+}
+
+.portfolio-mobile .text-wrapper-4 {
+  position: absolute;
+  top: -1px;
+  left: 65px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 10.32px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .mobile-about-me {
+  position: absolute;
+  width: 309px;
+  height: 579px;
+  top: 62px;
+  left: 21px;
+}
+
+.portfolio-mobile .overlap-5 {
+  position: relative;
+  width: 314px;
+  height: 584px;
+  left: -2px;
+  background-image: url(./img/mobile-blue-about-me-filled.svg);
+  background-size: 100% 100%;
+}
+
+.portfolio-mobile .element-bad-fb {
+  position: absolute;
+  width: 281px;
+  height: 282px;
+  top: 16px;
+  left: 16px;
+  object-fit: cover;
+}
+
+.portfolio-mobile .mobile-about-me-text-wrapper {
+  position: absolute;
+  width: 286px;
+  height: 252px;
+  top: 315px;
+  left: 16px;
+  background-color: #f4f4f4cc;
+  border-radius: 7.5px;
+}
+
+.portfolio-mobile .mobile-about-me-text {
+  position: absolute;
+  width: 260px;
+  top: 28px;
+  left: 13px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 10.3px;
+  letter-spacing: 0.52px;
+  line-height: normal;
+}
+
+.portfolio-mobile .overlap-6 {
+  position: absolute;
+  width: 351px;
+  height: 639px;
+  top: 2223px;
+  left: 21px;
+}
+
+.portfolio-mobile .rectangle-8 {
+  position: absolute;
+  width: 351px;
+  height: 572px;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 8px solid;
+  border-color: #ffc107;
+}
+
+.portfolio-mobile .rectangle-9 {
+  position: absolute;
+  width: 314px;
+  height: 584px;
+  top: 55px;
+  left: 18px;
+}
+
+.portfolio-mobile .rectangle-10 {
+  position: absolute;
+  width: 274px;
+  height: 248px;
+  top: 371px;
+  left: 36px;
+  background-color: #f4f4f4cc;
+  border-radius: 7.23px;
+}
+
+.portfolio-mobile .inspo-card {
+  position: absolute;
+  width: 275px;
+  height: 277px;
+  top: 76px;
+  left: 37px;
+}
+
+.portfolio-mobile .title-description-wrapper {
+  position: relative;
+  width: 273px;
+  height: 277px;
+  background-image: url(./img/unsplash-cxyf4xwpyde-2.png);
+  background-size: 100% 100%;
+}
+
+.portfolio-mobile .title-description {
+  position: absolute;
+  width: 85px;
+  top: 238px;
+  left: 91px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 7.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-mobile .text-wrapper-5 {
+  position: absolute;
+  top: 26px;
+  left: 55px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 10.32px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .my-design-interests {
+  position: absolute;
+  width: 248px;
+  top: 396px;
+  left: 52px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 11px;
+  letter-spacing: 0.55px;
+  line-height: normal;
+}
+
+.portfolio-mobile .overlap-7 {
+  position: absolute;
+  width: 351px;
+  height: 642px;
+  top: 2899px;
+  left: 21px;
+}
+
+.portfolio-mobile .rectangle-11 {
+  position: absolute;
+  width: 351px;
+  height: 572px;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 8px solid;
+  border-color: #80cee7;
+}
+
+.portfolio-mobile .rectangle-12 {
+  position: absolute;
+  width: 314px;
+  height: 584px;
+  top: 58px;
+  left: 18px;
+}
+
+.portfolio-mobile .rectangle-13 {
+  position: absolute;
+  width: 267px;
+  height: 275px;
+  top: 119px;
+  left: 42px;
+  background-color: #f4f4f4cc;
+  border-radius: 8px;
+}
+
+.portfolio-mobile .devicon-trello {
+  position: absolute;
+  width: 61px;
+  height: 61px;
+  top: 317px;
+  left: 138px;
+}
+
+.portfolio-mobile .skill-icons-figma {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 145px;
+  left: 60px;
+}
+
+.portfolio-mobile .skill-icons {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 142px;
+  left: 222px;
+}
+
+.portfolio-mobile .simple-icons-miro {
+  position: absolute;
+  width: 61px;
+  height: 61px;
+  top: 260px;
+  left: 66px;
+}
+
+.portfolio-mobile .devicon-slack {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  top: 255px;
+  left: 221px;
+}
+
+.portfolio-mobile .logos-google {
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  top: 200px;
+  left: 138px;
+}
+
+.portfolio-mobile .tools-education {
+  position: absolute;
+  width: 293px;
+  top: 25px;
+  left: 30px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 27.9px;
+  text-align: center;
+  letter-spacing: 11.98px;
+  line-height: normal;
+}
+
+.portfolio-mobile .b-s-studio-art {
+  position: absolute;
+  top: 439px;
+  left: 85px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.portfolio-mobile .certificate-ux-UI {
+  position: absolute;
+  top: 522px;
+  left: 58px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0.9px;
+  line-height: normal;
+}
+
+.portfolio-mobile .devicon-trello-2 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 4070px;
+  left: -6084px;
+}
+
+.portfolio-mobile .skill-icons-figma-2 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 4073px;
+  left: -6014px;
+}
+
+.portfolio-mobile .skill-icons-2 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 4073px;
+  left: -5939px;
+}
+
+.portfolio-mobile .simple-icons-miro-2 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 4070px;
+  left: -5863px;
+}
+
+.portfolio-mobile .akar-icons-html-fill {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 4073px;
+  left: -5793px;
+}
+
+.portfolio-mobile .devicon-java {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  top: 4073px;
+  left: -5717px;
+}
+
+.portfolio-mobile .bi-filetype-css {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 4074px;
+  left: -5641px;
+}
+
+.portfolio-mobile .devicon-slack-2 {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 4072px;
+  left: -5562px;
+}
+
+.portfolio-mobile .logos-google-2 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 4073px;
+  left: -5488px;
+}
+
+.portfolio-mobile .devicon-browserstack {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 4070px;
+  left: -5412px;
+}
+
+.portfolio-mobile .text-wrapper-6 {
+  position: absolute;
+  width: 393px;
+  top: 4371px;
+  left: -1px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 11.52px;
+  line-height: normal;
+}
+
+.portfolio-mobile .overlap-8 {
+  position: absolute;
+  width: 393px;
+  height: 511px;
+  top: 4411px;
+  left: 0;
+}
+
+.portfolio-mobile .together {
+  position: absolute;
+  width: 392px;
+  top: 0;
+  left: 0;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 11.52px;
+  line-height: normal;
+}
+
+.portfolio-mobile .text-wrapper-7 {
+  color: #e273bb;
+  letter-spacing: 4.15px;
+}
+
+.portfolio-mobile .text-wrapper-8 {
+  color: #ffc34f;
+  letter-spacing: 4.15px;
+}
+
+.portfolio-mobile .fafce-d-a {
+  position: absolute;
+  width: 393px;
+  height: 420px;
+  top: 31px;
+  left: 0;
+}
+
+.portfolio-mobile .group-2 {
+  position: absolute;
+  width: 317px;
+  height: 452px;
+  top: 59px;
+  left: 40px;
+}
+
+.portfolio-mobile .overlap-9 {
+  position: relative;
+  width: 315px;
+  height: 452px;
+  background-image: url(./img/rectangle-49.svg);
+  background-size: 100% 100%;
+}
+
+.portfolio-mobile .compose {
+  position: absolute;
+  width: 269px;
+  height: 280px;
+  top: 113px;
+  left: 25px;
+}
+
+.portfolio-mobile .overlap-group-4 {
+  position: relative;
+  width: 267px;
+  height: 280px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 1.16px 1.16px #00000040;
+}
+
+.portfolio-mobile .text-wrapper-9 {
+  position: absolute;
+  width: 61px;
+  top: 9px;
+  left: 4px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10.4px;
+  letter-spacing: 0.52px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .email {
+  position: absolute;
+  width: 269px;
+  height: 27px;
+  top: 68px;
+  left: 25px;
+}
+
+.portfolio-mobile .input {
+  position: relative;
+  width: 267px;
+  height: 27px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 1.16px 1.16px #00000040;
+  border: none;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10.4px;
+  letter-spacing: 0.52px;
+  line-height: normal;
+  white-space: nowrap;
+  padding: 0;
+  padding-left: 4px;
+}
+
+.portfolio-mobile .text-wrapper-10 {
+  position: absolute;
+  top: 28px;
+  left: 25px;
+  font-family: "Tamil Sangam MN-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .rectangle-14 {
+  position: absolute;
+  width: 109px;
+  height: 22px;
+  top: 465px;
+  left: 140px;
+  background-color: #ffc34f;
+  border-radius: 8px;
+  box-shadow: 0px 2px 2px #00000040;
+}
+
+.portfolio-mobile .text-wrapper-11 {
+  position: absolute;
+  width: 37px;
+  top: 470px;
+  left: 176px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 10.4px;
+  letter-spacing: 0.52px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .basic-footer {
+  position: relative;
+  width: 274px;
+  height: 18px;
+  top: 4927px;
+  left: 68px;
+}
+
+.portfolio-mobile .corinne-frank-wrapper {
+  position: relative;
+  width: 276px;
+  height: 14px;
+  top: 5px;
+}
+
+.portfolio-mobile .corinne-frank {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .rectangle-15 {
+  position: fixed;
+  width: 393px;
+  height: 172px;
+  top: 1px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.portfolio-mobile .mobile-nav {
+  display: flex;
+  width: 393px;
+  height: 41px;
+  align-items: center;
+  justify-content: center;
+  gap: 58px;
+  padding: 12px 22px;
+  position: fixed;
+  top: 132px;
+  left: 0;
+  background-color: #000000;
+}
+
+.portfolio-mobile .frame-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 29px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-mobile .text-wrapper-12 {
+  position: relative;
+  width: 47px;
+  height: 8.39px;
+  margin-top: -1px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .text-wrapper-13 {
+  position: relative;
+  width: 74px;
+  height: 8.39px;
+  margin-top: -1px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .frame-3 {
+  position: relative;
+  width: 135.53px;
+  margin-top: -3.71px;
+  margin-bottom: -5.89px;
+}
+
+.portfolio-mobile .mobile-title-wrapper {
+  position: fixed;
+  width: 393px;
+  height: 75px;
+  top: 57px;
+  left: 0;
+}
+
+.portfolio-mobile .mobile-title {
+  position: relative;
+  width: 358px;
+  height: 59px;
+  left: 20px;
+}
+
+.portfolio-mobile .overlap-group-5 {
+  position: relative;
+  width: 354px;
+  height: 59px;
+}
+
+.portfolio-mobile .text-wrapper-14 {
+  position: absolute;
+  width: 354px;
+  top: 33px;
+  left: 0;
+  font-family: "Tamil Sangam MN-Bold", Helvetica;
+  font-weight: 700;
+  color: #80cee7ed;
+  font-size: 19.7px;
+  text-align: center;
+  letter-spacing: 13.18px;
+  line-height: normal;
+}
+
+.portfolio-mobile .dots-and-ux-title {
+  position: absolute;
+  width: 354px;
+  height: 37px;
+  top: 22px;
+  left: 0;
+}
+
+.portfolio-mobile .text-wrapper-15 {
+  position: absolute;
+  top: 0;
+  left: 13px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 27.8px;
+  letter-spacing: 5.01px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile.portfolio-desktop-wrapper {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.portfolio-mobile .portfolio-desktop {
+  background-color: #ffffff;
+  overflow: visible;
+  width: 1728px;
+  height: 5424px;
+  position: relative;
+}
+
+.portfolio-mobile .overlap-10 {
+  position: absolute;
+  width: 1729px;
+  height: 945px;
+  top: 3553px;
+  left: -1px;
+}
+
+.portfolio-mobile .element-case-studies {
+  position: absolute;
+  width: 1728px;
+  height: 619px;
+  top: 326px;
+  left: 1px;
+}
+
+.portfolio-mobile .overlap-11 {
+  position: relative;
+  height: 619px;
+}
+
+.portfolio-mobile .blue-stripes-2 {
+  position: absolute;
+  width: 1728px;
+  height: 301px;
+  top: 117px;
+  left: 0;
+}
+
+.portfolio-mobile .overlap-group-6 {
+  position: relative;
+  height: 301px;
+}
+
+.portfolio-mobile .top-blue-stripe {
+  position: absolute;
+  width: 61px;
+  height: 1728px;
+  top: -834px;
+  left: 834px;
+  background-color: #80cee7a6;
+  transform: rotate(-90deg);
+}
+
+.portfolio-mobile .center-blue-stripe {
+  position: absolute;
+  width: 61px;
+  height: 1726px;
+  top: -705px;
+  left: 834px;
+  background-color: #80cee7a6;
+  transform: rotate(-90deg);
+}
+
+.portfolio-mobile .lower-blue-stripe {
+  position: absolute;
+  width: 61px;
+  height: 1726px;
+  top: -593px;
+  left: 834px;
+  background-color: #80cee7a6;
+  transform: rotate(-90deg);
+}
+
+.portfolio-mobile .case-study-cards {
+  position: absolute;
+  width: 1399px;
+  height: 619px;
+  top: 0;
+  left: 167px;
+}
+
+.portfolio-mobile .SC-card-right {
+  position: absolute;
+  width: 413px;
+  height: 619px;
+  top: 0;
+  left: 986px;
+}
+
+.portfolio-mobile .CS-card-right {
+  width: 415px;
+  height: 619px;
+}
+
+.portfolio-mobile .overlap-group-7 {
+  position: relative;
+  width: 413px;
+  height: 619px;
+}
+
+.portfolio-mobile .img-2 {
+  position: absolute;
+  width: 412px;
+  height: 619px;
+  top: 0;
+  left: 1px;
+}
+
+.portfolio-mobile .CS-card-right-2 {
+  position: absolute;
+  width: 412px;
+  height: 409px;
+  top: 0;
+  left: 0;
+  background-color: #1e1e1e80;
+  border-radius: 17.84px 17.84px 0px 0px;
+}
+
+.portfolio-mobile .CS-card-right-text {
+  position: absolute;
+  width: 411px;
+  top: 147px;
+  left: 1px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 35.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-mobile .img-3 {
+  position: absolute;
+  width: 75px;
+  height: 74px;
+  top: 494px;
+  left: 167px;
+}
+
+.portfolio-mobile .CS-card-middle {
+  position: absolute;
+  width: 413px;
+  height: 619px;
+  top: 0;
+  left: 493px;
+}
+
+.portfolio-mobile .CS-card-middle-2 {
+  position: absolute;
+  width: 412px;
+  height: 409px;
+  top: 0;
+  left: 1px;
+  background-color: #1e1e1e99;
+  border-radius: 17.84px 17.84px 0px 0px;
+}
+
+.portfolio-mobile .text-wrapper-16 {
+  position: absolute;
+  width: 411px;
+  top: 146px;
+  left: 0;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 35.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-mobile .CS-cardmiddle-link {
+  position: absolute;
+  width: 75px;
+  height: 74px;
+  top: 494px;
+  left: 168px;
+}
+
+.portfolio-mobile .CS-card-left {
+  position: absolute;
+  width: 412px;
+  height: 619px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/cs-card-left-photo.png);
+  background-size: 100% 100%;
+}
+
+.portfolio-mobile .overlap-12 {
+  position: absolute;
+  width: 412px;
+  height: 470px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-mobile .CS-card-left-overlay {
+  position: absolute;
+  width: 412px;
+  height: 409px;
+  top: 0;
+  left: 0;
+  background-color: #1e1e1e99;
+  border-radius: 17.84px 17.84px 0px 0px;
+}
+
+.portfolio-mobile .case-studies-bar-wrapper {
+  position: absolute;
+  width: 1728px;
+  height: 651px;
+  top: 70px;
+  left: 0;
+  .line-1 {
+    color: #000;
+
+    text-align: center;
+    font-family: "Tamil Sangam MN-Regular", Helvetica;
+    font-size: 27.713px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 42.124px;
+  }
+  .line-2 {
+    color: #000;
+
+    text-align: center;
+    /* Heading 1 */
+    font-family: "TAY Lennon-Regular", Helvetica;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 34.4px;
+    margin-top: 29px;
+    margin-bottom: 29px;
+  }
+  .line-3 {
+    color: #000;
+
+    text-align: center;
+    font-family: "Tamil Sangam MN-Regular", Helvetica;
+    font-size: 25.767px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 17.264px;
+  }
+}
+
+.portfolio-mobile .case-studies-bar {
+  height: 251px;
+  background-color: #ffffff;
+}
+
+.portfolio-mobile .element-sticky-case {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 11.55px;
+  /* position: relative; */
+  top: 49px;
+  /* left: 309px; */
+  width: 100%;
+}
+
+.portfolio-mobile .case-studies-header-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 11.55px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-mobile .case-studies-corinne {
+  position: relative;
+  width: 700px;
+  margin-top: -1.15px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 27.7px;
+  letter-spacing: 42.12px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .case-studies-title-2 {
+  display: flex;
+  width: 1112px;
+  align-items: center;
+  justify-content: center;
+  gap: 11.55px;
+  padding: 15.01px 12.7px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.portfolio-mobile .text-wrapper-17 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.64px;
+  font-family: var(--heading-1-font-family);
+  font-weight: var(--heading-1-font-weight);
+  color: #000000;
+  font-size: var(--heading-1-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-1-letter-spacing);
+  line-height: var(--heading-1-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-1-font-style);
+}
+
+.portfolio-mobile .case-studies-sub {
+  display: flex;
+  flex-direction: column;
+  width: 1112x;
+  align-items: center;
+  justify-content: center;
+  padding: 2.31px 282.91px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+}
+
+.portfolio-mobile .group-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.portfolio-mobile .group-3 {
+  position: relative;
+  width: 464px;
+  height: 48.96px;
+  margin-right: -2px;
+}
+
+.portfolio-mobile .overlap-group-8 {
+  position: relative;
+  width: 462px;
+  height: 49px;
+}
+
+.portfolio-mobile .text-wrapper-18 {
+  top: 14px;
+  color: #000000;
+  font-size: 25.8px;
+  letter-spacing: 17.26px;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  font-family: "Tamil Sangam MN-Bold", Helvetica;
+  font-weight: 700;
+  text-align: center;
+  line-height: normal;
+}
+
+.portfolio-mobile .ph-dot-3 {
+  top: 0;
+  left: 130px;
+  position: absolute;
+  width: 47px;
+  height: 48px;
+}
+
+.portfolio-mobile .ph-dot-4 {
+  top: 1px;
+  left: 49px;
+  position: absolute;
+  width: 47px;
+  height: 48px;
+}
+
+.portfolio-mobile .tools-and-education {
+  position: absolute;
+  width: 1388px;
+  height: 565px;
+  top: 2971px;
+  left: 180px;
+}
+
+.portfolio-mobile .group-4 {
+  width: 1391px;
+  height: 562px;
+}
+
+.portfolio-mobile .overlap-13 {
+  position: relative;
+  width: 1389px;
+  height: 562px;
+}
+
+.portfolio-mobile .tools-and-education-2 {
+  position: absolute;
+  width: 1389px;
+  height: 562px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-mobile .overlap-14 {
+  position: relative;
+  width: 1403px;
+  height: 575px;
+  top: -8px;
+  left: -8px;
+}
+
+.portfolio-mobile .tools-blue-stroke {
+  position: absolute;
+  width: 1403px;
+  height: 471px;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 8px solid;
+  border-color: #80cee7;
+}
+
+.portfolio-mobile .tools-lime-filled {
+  position: absolute;
+  width: 1324px;
+  height: 465px;
+  top: 110px;
+  left: 41px;
+}
+
+.portfolio-mobile .tools-logo-bar {
+  position: absolute;
+  width: 1214px;
+  height: 201px;
+  top: 182px;
+  left: 111px;
+}
+
+.portfolio-mobile .overlap-group-9 {
+  position: relative;
+  height: 201px;
+}
+
+.portfolio-mobile .tools-white {
+  position: absolute;
+  width: 201px;
+  height: 1214px;
+  top: -506px;
+  left: 506px;
+  background-color: #f4f4f466;
+  border-radius: 8px;
+  transform: rotate(-90deg);
+}
+
+.portfolio-mobile .tools-logo-bar-auto {
+  position: absolute;
+  width: 1103px;
+  height: 114px;
+  top: 46px;
+  left: 56px;
+}
+
+.portfolio-mobile .tools-education-2 {
+  position: absolute;
+  top: 39px;
+  left: 144px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 25.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .b-s-studio-art-2 {
+  position: absolute;
+  width: 543px;
+  top: 485px;
+  left: 74px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 1.8px;
+  line-height: normal;
+}
+
+.portfolio-mobile .cert-ux-UI-design {
+  position: absolute;
+  width: 650px;
+  top: 480px;
+  left: 706px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 1.6px;
+  line-height: normal;
+}
+
+.portfolio-mobile .element-interests {
+  position: absolute;
+  width: 1388px;
+  height: 565px;
+  top: 2347px;
+  left: 178px;
+}
+
+.portfolio-mobile .overlap-15 {
+  position: relative;
+  width: 1402px;
+  height: 578px;
+  top: -8px;
+  left: -8px;
+}
+
+.portfolio-mobile .interests-orange {
+  position: absolute;
+  width: 1402px;
+  height: 471px;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 8px solid;
+  border-color: #ffc107;
+}
+
+.portfolio-mobile .interests-pink {
+  position: absolute;
+  width: 1324px;
+  height: 465px;
+  top: 113px;
+  left: 38px;
+}
+
+.portfolio-mobile .interests-left {
+  position: absolute;
+  width: 603px;
+  height: 375px;
+  top: 155px;
+  left: 91px;
+}
+
+.portfolio-mobile .overlap-group-10 {
+  position: relative;
+  height: 375px;
+  border-radius: 8px;
+}
+
+.portfolio-mobile .interests {
+  position: absolute;
+  width: 603px;
+  height: 375px;
+  top: 0;
+  left: 0;
+  background-color: #f4f4f4cc;
+  border-radius: 8px;
+  transform: rotate(-180deg);
+}
+
+.portfolio-mobile .interests-2 {
+  position: absolute;
+  width: 558px;
+  top: 293px;
+  left: 22px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 15.48px;
+  line-height: normal;
+}
+
+.portfolio-mobile .interests-photo {
+  position: absolute;
+  width: 543px;
+  height: 225px;
+  top: 49px;
+  left: 23px;
+}
+
+.portfolio-mobile .interests-right {
+  position: absolute;
+  width: 600px;
+  height: 375px;
+  top: 155px;
+  left: 727px;
+  background-color: #f4f4f4cc;
+  border-radius: 8px;
+}
+
+.portfolio-mobile .interests-textbox {
+  position: absolute;
+  width: 537px;
+  top: 37px;
+  left: 28px;
+  font-family: var(--body-font-family);
+  font-weight: var(--body-font-weight);
+  color: #000000;
+  font-size: var(--body-font-size);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  font-style: var(--body-font-style);
+}
+
+.portfolio-mobile .interests-title {
+  position: absolute;
+  width: 599px;
+  top: 41px;
+  left: 690px;
+  font-family: var(--heading-3-font-family);
+  font-weight: var(--heading-3-font-weight);
+  color: #000000;
+  font-size: var(--heading-3-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-3-letter-spacing);
+  line-height: var(--heading-3-line-height);
+  font-style: var(--heading-3-font-style);
+}
+
+.portfolio-mobile .element-inspiration {
+  position: absolute;
+  width: 1388px;
+  height: 565px;
+  top: 1727px;
+  left: 178px;
+}
+
+.portfolio-mobile .overlap-16 {
+  position: relative;
+  width: 1408px;
+  height: 574px;
+  top: -8px;
+  left: -8px;
+}
+
+.portfolio-mobile .inspo-lime-stroke {
+  position: absolute;
+  width: 1408px;
+  height: 471px;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 8px solid;
+  border-color: #d7ff5e;
+}
+
+.portfolio-mobile .inspo-tangerine {
+  position: absolute;
+  width: 1325px;
+  height: 466px;
+  top: 108px;
+  left: 42px;
+}
+
+.portfolio-mobile .inspo-card-far-right {
+  left: 1142px;
+  position: absolute;
+  width: 180px;
+  height: 376px;
+  top: 151px;
+}
+
+.portfolio-mobile .right-inspo-card-wrapper {
+  position: relative;
+  width: 178px;
+  height: 376px;
+  background-image: url(./img/mountain-photo-inspo-card-right.png);
+  background-size: 100% 100%;
+}
+
+.portfolio-mobile .text-wrapper-19 {
+  position: absolute;
+  width: 55px;
+  top: 323px;
+  left: 59px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 8.6px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio-mobile .inspo-card-middle {
+  position: absolute;
+  width: 187px;
+  height: 376px;
+  top: 151px;
+  left: 931px;
+}
+
+.portfolio-mobile .middle-inspo-card-wrapper {
+  position: relative;
+  width: 185px;
+  height: 376px;
+  background-image: url(./img/mountain-photo-inspo-card-center.png);
+  background-size: 100% 100%;
+}
+
+.portfolio-mobile .inspo-card-far-left {
+  left: 723px;
+  position: absolute;
+  width: 180px;
+  height: 376px;
+  top: 151px;
+}
+
+.portfolio-mobile .left-inspo-card-wrapper {
+  position: relative;
+  width: 178px;
+  height: 376px;
+  background-image: url(./img/mountain-photo-inspo-card-left.png);
+  background-size: 100% 100%;
+}
+
+.portfolio-mobile .inspiration-text-box {
+  position: absolute;
+  width: 606px;
+  height: 376px;
+  top: 151px;
+  left: 86px;
+  background-color: #f4f4f4cc;
+  border-radius: 8px;
+}
+
+.portfolio-mobile .inspiration-text {
+  width: 531px;
+  top: 31px;
+  left: 39px;
+  font-family: var(--body-font-family);
+  font-size: var(--body-font-size);
+  letter-spacing: var(--body-letter-spacing);
+  position: absolute;
+  font-weight: var(--body-font-weight);
+  color: #000000;
+  line-height: var(--body-line-height);
+  font-style: var(--body-font-style);
+}
+
+.portfolio-mobile .inspo-catch-phrase {
+  position: absolute;
+  top: 325px;
+  left: 186px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 15.48px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .text-wrapper-20 {
+  width: 710px;
+  top: 43px;
+  left: 406px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 25.8px;
+  position: absolute;
+  font-weight: 400;
+  color: #000000;
+  line-height: normal;
+}
+
+.portfolio-mobile .element-about-me {
+  position: absolute;
+  width: 1388px;
+  height: 565px;
+  top: 1103px;
+  left: 178px;
+}
+
+.portfolio-mobile .overlap-17 {
+  position: relative;
+  width: 1404px;
+  height: 578px;
+  top: -8px;
+  left: -8px;
+}
+
+.portfolio-mobile .about-me-pink-stroke {
+  position: absolute;
+  width: 1404px;
+  height: 471px;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  border: 8px solid;
+  border-color: #e273bbcc;
+}
+
+.portfolio-mobile .about-me-blue {
+  position: absolute;
+  width: 1324px;
+  height: 465px;
+  top: 113px;
+  left: 35px;
+}
+
+.portfolio-mobile .about-me-text-box {
+  position: absolute;
+  width: 871px;
+  height: 364px;
+  top: 160px;
+  left: 80px;
+  background-color: #f4f4f4cc;
+  border-radius: 8px;
+}
+
+.portfolio-mobile .i-m-a-utah {
+  position: absolute;
+  width: 682px;
+  top: 50px;
+  left: 45px;
+  font-family: var(--body-font-family);
+  font-weight: var(--body-font-weight);
+  color: #000000;
+  font-size: var(--body-font-size);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  font-style: var(--body-font-style);
+}
+
+.portfolio-mobile .text-wrapper-21 {
+  position: absolute;
+  width: 758px;
+  top: 322px;
+  left: 44px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 15.48px;
+  line-height: normal;
+}
+
+.portfolio-mobile .profile-photo {
+  position: absolute;
+  width: 331px;
+  height: 364px;
+  top: 160px;
+  left: 992px;
+  object-fit: cover;
+}
+
+.portfolio-mobile .about-ME-title {
+  position: absolute;
+  width: 600px;
+  top: 40px;
+  left: 116px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #1e1e1e;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 25.8px;
+  line-height: normal;
+}
+
+.portfolio-mobile .overlap-18 {
+  position: absolute;
+  width: 1728px;
+  height: 1064px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-mobile .element-hero-whole {
+  position: absolute;
+  width: 1720px;
+  height: 1064px;
+  top: 0;
+  left: 4px;
+}
+
+.portfolio-mobile .overlap-19 {
+  position: relative;
+  width: 1692px;
+  height: 835px;
+  top: 202px;
+  left: 14px;
+}
+
+.portfolio-mobile .hero-green-stroke {
+  position: absolute;
+  width: 1566px;
+  height: 609px;
+  top: 95px;
+  left: 64px;
+  border-radius: 20px;
+  border: 7px solid;
+  border-color: #d7ff5e;
+}
+
+.portfolio-mobile .hero-artwork {
+  position: absolute;
+  width: 1692px;
+  height: 835px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-mobile .logo-white-bkgd {
+  position: absolute;
+  width: 550px;
+  height: 108px;
+  top: 650px;
+  left: 1051px;
+  background-color: #ffffff99;
+  border-radius: 20px;
+}
+
+.portfolio-mobile .p {
+  position: absolute;
+  width: 550px;
+  top: -1px;
+  left: 0;
+  transition: all 0.2s ease;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 142.5px;
+  text-align: center;
+  letter-spacing: 61.29px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .text-wrapper-22 {
+  color: #e273bb;
+  letter-spacing: 87.37px;
+}
+
+.portfolio-mobile .text-wrapper-23 {
+  color: #d7ff5e;
+  letter-spacing: 87.37px;
+}
+
+.portfolio-mobile .element-portfolio-header {
+  display: flex;
+  width: 1728px;
+  height: 217px;
+  align-items: center;
+  justify-content: center;
+  padding: 139px 224px 79px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.portfolio-mobile .group-5 {
+  position: relative;
+  width: 1730px;
+  height: 151px;
+  margin-top: -76px;
+  margin-bottom: -76px;
+  margin-left: -224px;
+  margin-right: -226px;
+}
+
+.portfolio-mobile .overlap-group-11 {
+  position: relative;
+  width: 1728px;
+  height: 151px;
+}
+
+.portfolio-mobile .text-wrapper-24 {
+  position: absolute;
+  width: 1728px;
+  top: 0;
+  left: 0;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 80px;
+  text-align: center;
+  letter-spacing: 29.6px;
+  line-height: normal;
+}
+
+.portfolio-mobile .frame-4 {
+  position: absolute;
+  width: 1727px;
+  height: 50px;
+  top: 76px;
+  left: 0;
+}
+
+.portfolio-mobile .text-wrapper-25 {
+  width: 1727px;
+  height: 50px;
+  top: -1px;
+  color: #80cee7ed;
+  font-size: 25.2px;
+  letter-spacing: 16.86px;
+  position: absolute;
+  left: 0;
+  font-family: "Tamil Sangam MN-Bold", Helvetica;
+  font-weight: 700;
+  text-align: center;
+  line-height: normal;
+}
+
+.portfolio-mobile .contact-and-footer {
+  position: absolute;
+  width: 1728px;
+  height: 900px;
+  top: 4524px;
+  left: 2px;
+  overflow: visible;
+}
+
+.portfolio-mobile .let-s-work-together {
+  position: absolute;
+  width: 1728px;
+  height: 232px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.portfolio-mobile .let-s-work-together-2 {
+  position: absolute;
+  width: 828px;
+  top: 80px;
+  left: 451px;
+  font-family: "TAY Lennon-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 71.4px;
+  text-align: center;
+  letter-spacing: 30.7px;
+  line-height: normal;
+}
+
+.portfolio-mobile .text-wrapper-26 {
+  color: #000000;
+  letter-spacing: 21.92px;
+}
+
+.portfolio-mobile .text-wrapper-27 {
+  color: #e273bb;
+  letter-spacing: 21.92px;
+}
+
+.portfolio-mobile .text-wrapper-28 {
+  color: #ffc107;
+  letter-spacing: 21.92px;
+}
+
+.portfolio-mobile .overlap-20 {
+  position: absolute;
+  width: 1729px;
+  height: 668px;
+  top: 232px;
+  left: 0;
+}
+
+.portfolio-mobile .contact-section {
+  position: absolute;
+  width: 1729px;
+  height: 640px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio-mobile .overlap-21 {
+  position: relative;
+  width: 1726px;
+  height: 640px;
+  background-image: url(./img/contact-section-artwork.png);
+  background-size: 100% 100%;
+}
+
+.portfolio-mobile .transparent-black {
+  position: absolute;
+  width: 868px;
+  height: 582px;
+  top: 35px;
+  left: 431px;
+}
+
+.portfolio-mobile .compose-box {
+  position: absolute;
+  width: 736px;
+  height: 310px;
+  top: 222px;
+  left: 486px;
+}
+
+.portfolio-mobile .overlap-group-12 {
+  position: relative;
+  width: 734px;
+  height: 310px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.portfolio-mobile .text-wrapper-29 {
+  position: absolute;
+  width: 267px;
+  top: 24px;
+  left: 12px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 1.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .email-2 {
+  position: absolute;
+  width: 736px;
+  height: 75px;
+  top: 120px;
+  left: 486px;
+}
+
+.portfolio-mobile .overlap-22 {
+  position: relative;
+  width: 734px;
+  height: 75px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.portfolio-mobile .text-wrapper-30 {
+  position: absolute;
+  width: 350px;
+  top: 21px;
+  left: 15px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 1.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .text-wrapper-31 {
+  position: absolute;
+  width: 324px;
+  top: 79px;
+  left: 488px;
+  font-family: "Tamil Sangam MN-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 1.8px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .submit-button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 145px;
+  height: 33px;
+  top: 549px;
+  left: 764px;
+}
+
+.portfolio-mobile .button {
+  all: unset;
+  box-sizing: border-box;
+  width: 147px;
+  height: 33px;
+}
+
+.portfolio-mobile .overlap-group-13 {
+  position: relative;
+  width: 145px;
+  height: 33px;
+  background-color: #ffc34f;
+  border-radius: 8px;
+  box-shadow: 0px 2.97px 2.97px #00000040;
+}
+
+.portfolio-mobile .text-wrapper-32 {
+  position: absolute;
+  width: 144px;
+  top: 12px;
+  left: 1px;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15.5px;
+  text-align: center;
+  letter-spacing: 0.77px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .basic-footer-2 {
+  position: relative;
+  width: 1728px;
+  height: 38px;
+  bottom: 0;
+  top: 860px;
+  left: 0;
+}
+
+.portfolio-mobile .group-6 {
+  position: absolute;
+  width: 295px;
+  height: 15px;
+  top: 9px;
+  left: 717px;
+}
+
+.portfolio-mobile .corinne-frank-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Tamil Sangam MN-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  letter-spacing: 0.75px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .mynaui-copyright-2 {
+  position: absolute;
+  width: 1px;
+  height: 15px;
+  top: 4px;
+  left: 0;
+}
+
+.portfolio-mobile .main-nav {
+  position: fixed;
+  width: 100%;
+  min-width: 100%;
+  height: 61px;
+  top: 0;
+  left: -1px;
+}
+
+.portfolio-mobile .overlap-23 {
+  position: relative;
+  width: 100%;
+  min-width: 100%;
+  height: 61px;
+  background-color: #ffffffa6;
+  backdrop-filter: blur(9.4px) brightness(100%);
+  -webkit-backdrop-filter: blur(9.4px) brightness(100%);
+}
+
+.portfolio-mobile .text-wrapper-33 {
+  position: absolute;
+  top: 21px;
+  left: 144px;
+  font-family: "Tamil Sangam MN-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.portfolio-mobile .fluent-mail {
+  /* position: absolute; */
+  /* width: 44px; */
+  height: 29px;
+  /* top: 9px;
+  left: 1572px; */
+}
+
+.portfolio-mobile .uil-instagram-alt {
+  /* position: absolute; */
+  width: 29px;
+  height: 29px;
+  /* top: 17px;
+  left: 1635px; */
+}
+
+.portfolio-mobile .fa-brands-linkedin {
+  /* position: absolute; */
+  width: 29px;
+  height: 29px;
+  /* top: 17px;
+  left: 1524px; */
+}
+
+.portfolio-mobile .text-wrapper-34 {
+  position: absolute;
+  top: 21px;
+  left: 50px;
+  font-family: "Tamil Sangam MN-Light", Helvetica;
+  font-weight: 300;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+@media (max-width: 1727px) {
+  .portfolio-mobile.portfolio-desktop-wrapper {
+    display: none !important;
+  }
+}
+
+@media (min-width: 1728px) {
+  .portfolio-mobile.portfolio-mobile-wrapper {
+    display: none !important;
+  }
+}
+/* navigation styles */
+.navigation-link {
+  color: #000000;
+  
+}
+/* a.navigation-link:hover{
+  font-weight: bold;
+} */
+
+.img-2 {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+}
+.img-2:hover{
+  filter: none;
+  -webkit-filter: grayscale(0);
+}
+
+.social-badges {
+  height: 29px;
+  max-height: 29px;
+  position: absolute;
+  right: 50px;
+  top: 17px;
+}
+/* <img class="fluent-mail" src="img/fluent-mail-20-filled.svg" />
+            <img class="uil-instagram-alt" src="img/uil-instagram-alt.svg" />
+            <img class="fa-brands-linkedin" src="img/fa-brands-linkedin.svg" /> */
