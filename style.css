@@ -1781,14 +1781,13 @@
   width: 599px;
   top: 41px;
   left: 690px;
-  font-family: var(--heading-3-font-family);
-  font-weight: var(--heading-3-font-weight);
+  font-family: "TAY LEnnon-Regular", Helvetica;
+  font-weight: 400;
   color: #000000;
-  font-size: var(--heading-3-font-size);
+  font-size: 60px;
   text-align: center;
-  letter-spacing: var(--heading-3-letter-spacing);
-  line-height: var(--heading-3-line-height);
-  font-style: var(--heading-3-font-style);
+  letter-spacing: 25.8px;
+  line-height: normal;
 }
 
 .portfolio-mobile .element-inspiration {
