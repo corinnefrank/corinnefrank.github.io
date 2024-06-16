@@ -997,7 +997,7 @@
 }
 
 .portfolio-mobile .basic-footer {
-  position: relative;
+  position: absolute;
   width: 274px;
   height: 18px;
   top: 4927px;
