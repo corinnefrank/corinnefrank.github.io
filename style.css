@@ -1119,9 +1119,9 @@
   font-family: "Tamil Sangam MN-Bold", Helvetica;
   font-weight: 700;
   color: #80cee7ed;
-  font-size: 19.7px;
+  font-size: 20px;
   text-align: center;
-  letter-spacing: 13.18px;
+  letter-spacing: 5px;
   line-height: normal;
 }
 
@@ -1141,7 +1141,7 @@
 .portfolio-mobile.portfolio-desktop-wrapper {
   background-color: #ffffff;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   width: 100%;
 }
