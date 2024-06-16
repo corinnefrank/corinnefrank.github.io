@@ -396,11 +396,6 @@
   line-height: normal;
 }
 
-.portfolio-mobile .UX-UI-text-with-dots {
-  position: relative;
-  width: 163.65px;
-  height: 17.3px;
-}
 
 .portfolio-mobile .overlap-group-wrapper {
   position: relative;
@@ -1128,14 +1123,6 @@
   text-align: center;
   letter-spacing: 13.18px;
   line-height: normal;
-}
-
-.portfolio-mobile .dots-and-ux-title {
-  position: absolute;
-  width: 354px;
-  height: 37px;
-  top: 22px;
-  left: 0;
 }
 
 .portfolio-mobile .text-wrapper-15 {
