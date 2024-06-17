@@ -265,7 +265,7 @@
   left: 0;
   border-radius: 8px;
   border: 8px solid;
-  border-color: var(--lime);
+  border-color: #D7FF5E;
 }
 
 .portfolio-mobile .mobile-tangerine {
@@ -1028,7 +1028,7 @@
   position: fixed;
   width: 393px;
   height: 172px;
-  top: 1px;
+  top: 0px;
   left: 0;
   background-color: #ffffff;
 }
